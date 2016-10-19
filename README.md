@@ -1,2 +1,2 @@
 # Coursera-AngularJS
-Coursera Frontend JS Frameworks - AngularJS
+Coursera Front End JS Frameworks - AngularJS
